@@ -1,4 +1,4 @@
 # Hello Word
  Primeiro repositório versionado
 
-Repósitorio criado em curso
+ Repósitorio criado em curso
